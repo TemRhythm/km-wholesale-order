@@ -1,0 +1,19 @@
+{
+  "name": "km-wholesale-order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "select2": "^3.5.1",
+    "csv-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bundle-assets": "^2.29.0"
+  }
+}
